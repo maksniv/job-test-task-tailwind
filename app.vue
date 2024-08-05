@@ -1,7 +1,3 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-    <div>gg</div>
-  </div>
+  <card class="m-auto"></card>
 </template>
